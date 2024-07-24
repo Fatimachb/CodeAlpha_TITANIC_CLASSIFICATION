@@ -15,7 +15,7 @@ Install the required packages:
 
 pip install -r requirements.txt
 
-##Usage
+## Usage
 
 Download the Titanic dataset files (train.csv and test.csv) from the Kaggle Titanic competition page.
 
@@ -27,20 +27,29 @@ jupyter notebook
 
 Open Titanic_Classification.ipynb and execute the cells.
 
-##Project Structure
+## Project Structure
 
 titanic-classification/
 
 ├── data/
+
 │   ├── train.csv
+
 │   ├── test.csv
+
 ├── notebooks/
+
 │   └── Titanic_Classification.ipynb
+
 ├── submission/
+
 │   └── submission.csv
+
 ├── README.md
 
-##License
+## License
 
 This project is licensed under the MIT License.
+
+Feel free to customize this README file according to your specific project details and requirements.
 
