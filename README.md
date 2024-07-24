@@ -21,9 +21,7 @@ Download the Titanic dataset files (train.csv and test.csv) from the Kaggle Tita
 
 Place the dataset files in the data/ directory.
 
-Run the Jupyter notebook:
-
-jupyter notebook
+open colab google
 
 Open Titanic_Classification.ipynb and execute the cells.
 
