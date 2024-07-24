@@ -27,29 +27,8 @@ jupyter notebook
 
 Open Titanic_Classification.ipynb and execute the cells.
 
-## Project Structure
-
-titanic-classification/
-
-├── data/
-
-│   ├── train.csv
-
-│   ├── test.csv
-
-├── notebooks/
-
-│   └── Titanic_Classification.ipynb
-
-├── submission/
-
-│   └── submission.csv
-
-├── README.md
 
 ## License
-
-This project is licensed under the MIT License.
 
 Feel free to customize this README file according to your specific project details and requirements.
 
