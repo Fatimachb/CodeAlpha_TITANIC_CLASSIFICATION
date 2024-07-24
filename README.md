@@ -5,7 +5,7 @@ This project predicts whether a passenger would survive the Titanic disaster bas
 
 1. Clone the repository:
    
-   git clone https://github.com/Fatimachb/titanic-classification.git
+   git clone https://github.com/Fatimachb/CodeAlpha_TITANIC_CLASSIFICATION
    
 Navigate to the project directory:
 
